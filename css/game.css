@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    width: 100%;
+    max-width: 800px;
+}
+
+.card{
+    width: 100%;
+    height: 200px;
+    background-color: #333;
+}
